@@ -1,0 +1,42 @@
+body {
+
+background-color: skyblue;
+
+}
+
+h1 {
+
+  font-family: 'Merriweather', serif;
+
+}
+
+span {
+
+  font-family: 'Saira Extra Condensed', sans-serif;
+
+  font-size: 24px;
+
+}
+
+h1 span {
+  color: orange;
+  font-size: 40px;
+
+}
+
+.gato1 {
+  width: 128px;
+  height: 128px;
+  background: url('../assets/images/css_sprites.png') -10px -10px;
+
+}
+
+
+.gato2 {
+  width: 128px;
+  height: 128px;
+  background: url('../assets/images/css_sprites.png') -158px -10px;
+
+
+
+}
